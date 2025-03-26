@@ -1,5 +1,1 @@
-{"type": "module",
-  "dependencies": {
-    "crypto": "^1.0.1"
-  }
-}
+{"type":"module","dependencies":{"bs58":"^6.0.0","crypto":"^1.0.1"}}
